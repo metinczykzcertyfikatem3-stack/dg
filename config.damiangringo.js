@@ -17,7 +17,7 @@ window.SITE = {
     
     { name: "Leon", logo: "assets/leon.png",
       link: "https://dg-leon.lovable.app/",
-      bonus: '<span class="g">12 000zł</span> w <b>Bonusach Powitalnych</b>,
+      bonus: '<span class="g">12 000zł</span> w <b>Bonusach Powitalnych</b>',
       minDep: "50 zł" },
     
       { name: "Slotuna", logo: "assets/slotuna.jpeg",
