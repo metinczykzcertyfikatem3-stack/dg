@@ -20,7 +20,7 @@ window.SITE = {
       bonus: '<span class="g">12 000zł</span> w <b>Bonusach Powitalnych</b>',
       minDep: "50 zł" },
     
-      { name: "Slotuna", logo: "assets/slotuna.jpeg",
+      { name: "Slotuna", logo: "assets/slotuna.png",
       link: "https://cocoeschwa.com/api/v3/offer/578?affiliate_id=199&url_id=683",
       bonus: '<span class="g">100%</span> do <b>2250 zł</b> + <b>200</b> darmowych spinów + 1 bonus crab',
       minDep: "50 zł" },
@@ -35,12 +35,12 @@ window.SITE = {
       bonus: '<span class="g">100-150%</span> do <b>7500 zł</b> + <b>50-150</b> darmowych spinów',
       minDep: "80 zł (bonus od min. wpłaty 100 zł)" },
 
-    { name: "JasminSlots", logo: "assets/jasmin-slots.jpeg",
+    { name: "JasminSlots", logo: "assets/jasminslots.png",
       link: "https://cocoeschwa.com/api/v3/offer/598?affiliate_id=199&url_id=719",
       bonus: '<span class="g">350%</span> do <b>2000 €</b> + <b>1000</b> darmowych spinów',
       minDep: "20 €" },
 
-    { name: "Blitz-Bet", logo: "assets/blitz-bet.png",
+    { name: "Blitz-Bet", logo: "assets/blitzbet.png",
       link: "https://cocoeschwa.com/api/v3/offer/599?affiliate_id=199&url_id=720",
       bonus: '<span class="g">150%</span> do <b>6000 zł</b> + <b>150</b> darmowych spinów',
       note: "lub do 400% do 8330 zł + 150 FS (rozłożone na 3 pierwsze wpłaty)",
